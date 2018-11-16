@@ -6,11 +6,7 @@ main {
   margin: 3rem;
   background-color: white;
 }
-ul {
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-}
+
 .colorPicker {
   min-width: 20rem;
   min-height: 10rem;
