@@ -31,7 +31,17 @@ class App extends Component {
     }%)`
     return (
       <main>
-        <h1>Exploring</h1>
+        <h1 class="exploring">
+          <span class="char1">E</span>
+          <span class="char2">x</span>
+          <span class="char3">p</span>
+          <span class="char4">l</span>
+          <span class="char5">o</span>
+          <span class="char6">r</span>
+          <span class="char7">i</span>
+          <span class="char8">n</span>
+          <span class="char9">g</span>
+        </h1>
         <div class="block">
           <label>H </label>
           <input
@@ -84,3 +94,4 @@ export default App
 //Display color on screen
 //Display the color numbers on screen
 //Hook up state
+//Design some
